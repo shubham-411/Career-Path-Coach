@@ -6,7 +6,7 @@ Students can get a personalized N-month career roadmap, internship suggestions, 
 Features-
  Generate a personalized roadmap (3–24 months)
  
- Uses Gemini 1.5 Flash for structured JSON output
+ Uses Gemini 2.5 Flash for structured JSON output
  
  Smart suggestions based on interests + current skills
  
