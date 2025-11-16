@@ -5,13 +5,19 @@ Students can get a personalized N-month career roadmap, internship suggestions, 
 
 Features-
  Generate a personalized roadmap (3–24 months)
+ 
  Uses Gemini 1.5 Flash for structured JSON output
+ 
  Smart suggestions based on interests + current skills
+ 
  Uses internal curated dataset for fields like:
 (Web Development,Machine Learning,Cloud, DevOps,Cybersecurity,Android Development,Data Science & Analytics,UI/UX,Blockchain,Game Dev,Research
 … and more)
+
 Clean, responsive UI (Streamlit)
+
 Automatic JSON parsing & fallback extraction
+
 Zero backend — runs entirely client-side
 
 # Tech Stack
