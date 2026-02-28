@@ -1,4 +1,4 @@
-# Eonverse_project
+
 # Career Path Coach – AI-Powered Roadmap Generator
 An AI-powered Career Planning Assistant built using Gemini API and Streamlit.
 Students can get a personalized N-month career roadmap, internship suggestions, and key skills to focus on all generated dynamically using Google’s Gemini model.
