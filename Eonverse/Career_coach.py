@@ -3,8 +3,9 @@ import json
 import streamlit as st
 import google.generativeai as genai
 
+API_KEY = st.secrets["GEMINI_API_KEY"]
 #Configuring api key
-genai.configure(api_key="GEMINI_API_KEY")
+genai.configure(api_key=API_KEY)
 
 #initializing a model
 model = genai.GenerativeModel("gemini-2.5-flash")
@@ -169,4 +170,5 @@ if st.button("Generate My Career Plan"):
 
             except Exception as e:
                 st.error(f"Error: {e}")
+
 
